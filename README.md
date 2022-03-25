@@ -1,10 +1,10 @@
 # Hi there, I'm Antonio 👋 
-![Image from Gyazo](https://i.gyazo.com/a8db224efa350e5d5496ae2c29219193.png)]
+![Image from Gyazo](https://i.gyazo.com/a8db224efa350e5d5496ae2c29219193.png)
 ## About Me
 
 - 👨‍💻 Data Science intern at Mapfre
 - 📚  I’m currently studying a Data Science MSc at Cunef
-- 🛠️ Main Languages and Tools: Python, R, Git, Bash, Docker, SQL, Spark, Tableau
+- 🛠️ Main Languages and Tools: Python, R, Git, Bash, Docker, SQL, Spark, Tableau...
 - 🌱 I’m currently learning about Synthetic Tabular Data
 
 <br>
