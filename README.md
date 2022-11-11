@@ -2,10 +2,10 @@
 ![Image from Gyazo](https://i.gyazo.com/a8db224efa350e5d5496ae2c29219193.png)
 ## About Me
 
-- 👨‍💻 Data Science intern at Mapfre
-- 📚  I’m currently studying a Data Science MSc at Cunef
-- 🛠️ Main Languages and Tools: Python, R, Git, Bash, Docker, SQL, Spark, Tableau...
-- 🌱 I’m currently learning about Synthetic Tabular Data
+- 👨‍💻 Data Scientist at Mapfre
+- 👨‍🎓  MSc Data Science (Cunef)
+- 🛠️ Main Languages and Tools: Python, SQL, R, Git, Bash, Docker, Spark, Tableau...
+- 👥 Collaborating in different data related projects that I share here 
 
 <br>
 <p align="center">
