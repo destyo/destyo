@@ -2,7 +2,7 @@
 ![Image from Gyazo](https://i.gyazo.com/a8db224efa350e5d5496ae2c29219193.png)
 ## About Me
 
-- 👨‍💻 Data Scientist at Mapfre
+- 👨‍💻 Data Scientist at MAPFRE Spain
 - 👨‍🎓  MSc Data Science (Cunef)
 - 🛠️ Main Languages and Tools: Python, SQL, R, Git, Bash, Docker, Spark, Tableau...
 - 👥 Collaborating in different data related projects that I share here 
